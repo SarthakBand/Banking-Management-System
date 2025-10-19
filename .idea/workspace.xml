@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="749549ad-ce9a-4f2e-a0f5-cf008253e482" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/banking/db/DatabaseConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banking/db/DatabaseConn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,5 +61,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
