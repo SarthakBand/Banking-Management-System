@@ -1,4 +1,4 @@
-package com.banking.models;
+package bank.models;
 
 import java.sql.*;
 import java.util.Scanner;

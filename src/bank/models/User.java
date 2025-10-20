@@ -1,4 +1,4 @@
-package com.banking.models;
+package bank.models;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="749549ad-ce9a-4f2e-a0f5-cf008253e482" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bank/services/AccountsManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/banking/models/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banking/models/Accounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/db/DatabaseConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/db/DatabaseConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/models/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/models/Accounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/models/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
